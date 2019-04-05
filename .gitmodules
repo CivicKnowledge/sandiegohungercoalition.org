@@ -1,0 +1,3 @@
+[submodule "cde.ca.gov"]
+	path = cde.ca.gov
+	url = https://github.com/metatab-packages/cde.ca.gov.git
