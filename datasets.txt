@@ -1,0 +1,6 @@
+metapack+http://library.metatab.org/cde.ca.gov-reimbursements-1.csv
+metapack+http://library.metatab.org/cde.ca.gov-caaspp-2015e-1.csv
+metapack+http://library.metatab.org/cde.ca.gov-absenteeism-1.csv
+metapack+http://library.metatab.org/cde.ca.gov-frpm-1.csv
+metapack+http://library.metatab.org/cde.ca.gov-calpads_upc-1.csv
+metapack+http://library.metatab.org/cde.ca.gov-current_expense-1.csv
